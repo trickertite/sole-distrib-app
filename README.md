@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+testing rspec:
+bin/rspec spec/models/post_spec.rb
+
+testing cucumber:
+bin/cucumber features/home_page.feature
